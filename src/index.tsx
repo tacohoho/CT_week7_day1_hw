@@ -10,7 +10,7 @@ ReactDOM.render(
     <Router>
       <Switch>
         <Route exact path='/'>
-          <Home title = {'Coding Temple Drones'}/>
+          <Home title = {'Pokemon'}/>
         </Route>
         <Route exact path='/dashboard'>
           <Dashboard />
